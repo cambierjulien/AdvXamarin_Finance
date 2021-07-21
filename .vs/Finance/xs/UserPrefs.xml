@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{8337A36F-24EB-4EA0-909B-C7644191855D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../.nuget/packages/xamarin.androidx.migration/1.0.8/buildTransitive/monoandroid90/Xamarin.AndroidX.Migration.targets">
+    <Files>
+      <File FileName="Finance/App.xaml" Line="9" Column="15" />
+      <File FileName="Finance.iOS/Info.plist" />
+      <File FileName="Finance/ViewModel/MainVM.cs" />
+      <File FileName="Finance/Model/Posts.cs" />
+      <File FileName="Finance/View/PostPage.xaml" />
+      <File FileName="Finance/View/MainPage.xaml" />
+      <File FileName="Finance/View/MainPage.xaml.cs" />
+      <File FileName="Finance.Android/Finance.Android.csproj" Line="43" Column="38" />
+      <File FileName="../../.nuget/packages/xamarin.androidx.migration/1.0.8/buildTransitive/monoandroid90/Xamarin.AndroidX.Migration.targets" Line="131" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Finance" expanded="True">
+            <Node name="Finance" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="Behaviors" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+            <Node name="Finance.Android" selected="True" />
+            <Node name="Finance.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Finance.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.2d78ccb5cf4ccc8dde7211afafadf211d5221b21" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

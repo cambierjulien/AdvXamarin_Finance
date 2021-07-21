@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3yJ0QkcukTAsABQQjeuvIH9j2jvrxciA3R86R6/ngSCVmD45DbmhD2QfTcc2WZFQidSKHvGnpPqXMnbCMbXLIw==",
+  "success": true,
+  "projectFilePath": "/Users/juliencambier/Code/Finance/Finance/Finance.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/juliencambier/.nuget/packages/xamarin.forms/5.0.0.2083/xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

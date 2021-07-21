@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PpMP3sfrPlAoUUzKYYGA42SfdDUl6xc8vy0DjJqHPeNH21S8ONoEQcV8GvBbekV+/UJoUjmtOA2rlJVJKuSBjA==",
+  "success": true,
+  "projectFilePath": "/Users/juliencambier/Code/Finance/Finance.iOS/Finance.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/juliencambier/.nuget/packages/xamarin.forms/5.0.0.2083/xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}
